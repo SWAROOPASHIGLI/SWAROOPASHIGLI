@@ -10,7 +10,7 @@
 
 ###### * :handshake: I’m looking to collaborate on with work/internship in the field of **computer vision, machine learning and python**.
 
-###### * I am passionate about research article writing :page_facing_up:.
+###### * :paperclip: I am passionate about research article writing :page_facing_up:.
 
 ###### * 🤔 I’m looking for help with practical implementation in Robotics field.
 
