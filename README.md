@@ -1,8 +1,6 @@
 ### Hi there 👋
-### I am glad you found me ... I have been looking forward to meeting with you :relaxed: :exclamation:
 
-<!--
-**SWAROOPASHIGLI/SWAROOPASHIGLI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am glad you found me ... I have been looking forward to meeting with you :relaxed: :exclamation:
 
 #### Continue reading to find out more about me ... Come along
 
